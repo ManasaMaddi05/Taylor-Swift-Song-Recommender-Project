@@ -3,7 +3,7 @@
 This project is a data science exploration of Taylor Swift's music, offering a song recommendation system and a lyric search tool using data from Spotify and Genius. The project is divided into four main sections and includes a bonus Taylor Swift Emoji Quiz at the end for some extra fun!
 
 ## Sections
-1. [Data Visualization 👀](#data-visualization)
+1. [Data Visualization 👀]
 2. [Song Recommender 🎧](#song-recommender)
 3. [Lyric Searcher 🔍](#lyric-searcher)
 4. [Keyword Search Tool 🔑](#keyword-search-tool)
